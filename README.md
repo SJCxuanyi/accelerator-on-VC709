@@ -10,3 +10,5 @@ Xilinx VC709 FPGA. The EDA tool is Vivado 2018.3, and the simulation tool is Mod
 ![image](resources.png)
 ## Power consumption
 ![image](power.png)
+## Design Sources
+![image](sources.png)
